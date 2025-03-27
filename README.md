@@ -32,10 +32,10 @@ New York City is facing a critical housing crisis — with skyrocketing rent pri
 
 ## 📄 Deliverables
 
-### 📌 [Infographic PDF](./[Storytelling%20Group%207]%20-%20Pop-Up%20Modular%20Homes%20Solutions%20for%20New%20York%20City’s%20Housing%20Demand.pdf)
+### 📌 [Infographic PDF]
 A professionally designed Tableau infographic that communicates the scale of the housing crisis and visualizes possible modular housing solutions.
 
-### 📌 [One-Pager Summary](./One%20Pager_Storytelling_Ayu%20Putri%20Vidiantiwi.pdf)
+### 📌 [One-Pager Summary]
 A concise report explaining the background, problem formulation, and recommendations — ideal for stakeholders or portfolio reviewers.
 
 ---
