@@ -36,7 +36,7 @@ New York City is facing a critical housing crisis — with skyrocketing rent pri
 A professionally designed Tableau infographic that communicates the scale of the housing crisis and visualizes possible modular housing solutions.
 
 ### 📌 [One-Pager Summary]
-A concise report explaining the background, problem formulation, and recommendations — ideal for stakeholders or portfolio reviewers.
+A concise report explaining the background, problem formulation, and recommendations, ideal for stakeholders or portfolio reviewers.
 
 ---
 
