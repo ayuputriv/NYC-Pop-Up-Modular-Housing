@@ -1,16 +1,16 @@
-# 🏙️ Innovative Homes in a Dynamic City: Pop-Up Modular Housing for NYC
+# Innovative Homes in a Dynamic City: Pop-Up Modular Housing for NYC
 
 This Tableau storytelling project presents innovative, data-driven solutions to address **New York City’s housing demand**, with a focus on **temporary, flexible, and sustainable alternatives** like modular pop-up homes.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 New York City is facing a critical housing crisis — with skyrocketing rent prices and extremely limited availability in high-demand areas like Manhattan. Through data storytelling, this project highlights the housing shortage and explores **alternative housing solutions** that are both realistic and impactful.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze the gap between housing demand and supply in NYC.
 - Identify **underutilized spaces** (e.g., rooftops, water areas, vacant land).
@@ -21,7 +21,7 @@ New York City is facing a critical housing crisis — with skyrocketing rent pri
 
 ---
 
-## 📊 Tools & Techniques
+## Tools & Techniques
 
 - **Tool Used**: Tableau
 - **Data Sources**: NYC housing data, census trends, news reports (e.g., The New York Times)
@@ -30,17 +30,17 @@ New York City is facing a critical housing crisis — with skyrocketing rent pri
 
 ---
 
-## 📄 Deliverables
+## Deliverables
 
-### 📌 [Infographic PDF]
+### [Infographic PDF]
 A professionally designed Tableau infographic that communicates the scale of the housing crisis and visualizes possible modular housing solutions.
 
-### 📌 [One-Pager Summary]
+### [One-Pager Summary]
 A concise report explaining the background, problem formulation, and recommendations, ideal for stakeholders or portfolio reviewers.
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - NYC had only **1.4% apartment availability** in 2023 (NYT, 2024).
 - Rooftops and rivers offer potential **alternative land** for modular construction.
@@ -49,7 +49,7 @@ A concise report explaining the background, problem formulation, and recommendat
 
 ---
 
-## 📣 Call to Action
+## Call to Action
 
 This project encourages deeper data analysis, stakeholder involvement, and city planner collaboration to explore:
 - Best locations for pop-up housing
@@ -64,6 +64,7 @@ This project encourages deeper data analysis, stakeholder involvement, and city 
 📚 M.S. in Applied Analytics, Columbia University  
 📊 Passionate about finance, business, data storytelling, and analytics
 🌐 [LinkedIn](https://www.linkedin.com/in/ayuputriv/) | 
+📧 [ayu.vidiantiwi@columbia.edu]
 
 ---
 
